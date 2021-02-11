@@ -49,7 +49,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
    - Assign to each member the tasks to recreate the web
    - Create a project named "Loruki Website" to follow the status
 
-- Assigned to [Emely](https://github.com/emelysalmeron)\[Furkan](https://github.com/kilicf)
+- Assigned to [Emely](https://github.com/emelysalmeron)/[Furkan](https://github.com/kilicf)
 
 ### Create Section ` Home`
 
@@ -63,7 +63,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 1. Work in the section `Home` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
 1. Change your status in the project, to follow the work
 
-- Assigned to [Furkan](https://github.com/kilicf)\
+- Assigned to [Furkan](https://github.com/kilicf)
 
 ---
 
@@ -80,7 +80,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 1. Change your status in the project, to follow the work
 1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
 
-- Assigned to [Joexy](https://github.com/Joexy1990)\*[Selim ](https://github.com/selimensar)\*\*\*
+- Assigned to [Joexy](https://github.com/Joexy1990)/[Selim](https://github.com/selimensar)
 
 ---
 
@@ -97,7 +97,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 1. Change your status in the project, to follow the work
 1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
 
-- Assigned to [Zehra ](https://github.com/zehrayelkenci)\*[Furkan](https://github.com/kilicf)\*\*\*
+- Assigned to [Zehra ](https://github.com/zehrayelkenci)/[Furkan](https://github.com/kilicf)
 
 ---
 
