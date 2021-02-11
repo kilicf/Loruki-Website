@@ -20,15 +20,15 @@ As a team come up with a plan for how to use each communication channel. What wi
 
 How many hours does everyone have? and when are you generally available?
 
-| Name | Sunday   | Monday    | Tuesday   | Wednesday    | Thursday    |  Friday   | Saturday  |
-| :---:   | :-: | :-: | :---:   | :-: | :-: | :-: | :-: |
-| Furkan |  08-12 - / 16-  |  12:00 -  |  12:00 - | 12:00 -  |  08:00 -  | 12:00 -   | 08:00 -|
-| Emely  |  08-12 |  08-12 - / 17- |  08-12 - / 17- | 08 - 21 |  08:00 - | 08:00 -| 08:00 -|
-| Zara |    |    |   |    |    |   |
-| Selim   |  |  |    |  |  |  |
-| Zehra |    |    |   |    |    |   |
-| Joeaponte   |  |  |    |  |  |  |
-| Kazem |    |    |   |    |    |   |
+|   Name    |    Sunday     |    Monday     |    Tuesday    |   Wednesday   |   Thursday    |    Friday     | Saturday |
+| :-------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: |
+|  Furkan   | 08-12 - / 16- |    12:00 -    |    12:00 -    |    12:00 -    |    08:00 -    |    12:00 -    | 08:00 -  |
+|   Emely   |     08-12     | 08-12 - / 17- | 08-12 - / 17- |    08 - 21    |    08:00 -    |    08:00 -    | 08:00 -  |
+|   Zara    |     09-12     | 12:00 - 21:00 | 12:00 - 21:00 | 12:00 - 21:00 | 12:00 - 21:00 | 12:00 - 21:00 |  09-12   |
+|   Selim   |               |               |               |               |               |               |
+|   Zehra   |               |               |               |               |               |               |
+| Joeaponte |               |               |               |               |               |               |
+|   Kazem   |               |               |               |               |               |               |
 
 
 
