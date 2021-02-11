@@ -7,7 +7,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 
 - [Zehra ](https://github.com/zehrayelkenci)
 - [Selim ](https://github.com/selimensar)
-- [Furkan](https://github.com/emelysalmeron)
+- [Furkan](https://github.com/kilicf)
 - [Joexy](https://github.com/Joexy1990)
 - [Zara](https://github.com/zaraana)
 - [Emely](https://github.com/emelysalmeron)
@@ -30,7 +30,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 1. Write a development strategy
 1. Translate the strategy into issues
 
-- Assigned to
+- Assigned to [Furkan](https://github.com/kilicf)/[Zehra ](https://github.com/zehrayelkenci)/[Emely](https://github.com/emelysalmeron)
 
 ---
 
@@ -49,88 +49,55 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
    - Assign to each member the tasks to recreate the web
    - Create a project named "Loruki Website" to follow the status
 
-- Assigned to \*\*\*\*
+- Assigned to [Emely](https://github.com/emelysalmeron)\[Furkan](https://github.com/kilicf)
 
-### Create Section
+### Create Section ` Home`
 
 1. Fork repo [loruki-website](https://github.com/kilicf/loruki-website)
 1. Create an issue in the repo, add the labels and project label
-1. Create a branch named ` bla bla`
+1. Create a branch named ` Home`
 1. Create a index.html file
 1. Create a style.css file
    - Work with @media Query to make the web responsive
 1. Create a link in the index.html to ref style.css
-1. Work in the section `bla bla` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
+1. Work in the section `Home` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
 1. Change your status in the project, to follow the work
 
-- Assigned to \*\*\*\*
+- Assigned to [Furkan](https://github.com/kilicf)\
 
 ---
 
-### Create Sections `bla bla`
+### Create Sections `Features`
 
 1. Fork repo
 1. Create an issue in the repo, add the labels and project label
-1. Create a branch `bla bla`
+1. Create a branch `Features`
 1. Create a index.html file
 1. Create a style.css file
    - Work with @media Query to make the web responsive
 1. Create a link in the index.html to ref style.css
-1. Work in the section `bla bla` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
+1. Work in the section `Features` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
 1. Change your status in the project, to follow the work
 1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
 
-- Assigned to \*\*\*\*
+- Assigned to [Joexy](https://github.com/Joexy1990)\*[Selim ](https://github.com/selimensar)\*\*\*
 
 ---
 
-### Create Sections `bla bla`
+### Create Sections `Docs`
 
 1. Fork repo
 1. Create an issue in the repo, add the labels and project label
-1. Create a branch `bla bla`
+1. Create a branch `Docs`
 1. Create a index.html file
 1. Create a style.css file
    - Work with @media Query to make the web responsive
 1. Create a link in the index.html to ref style.css
-1. Work in the section `bla bla` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
+1. Work in the section `Docs` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
 1. Change your status in the project, to follow the work
 1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
 
-- Assigned to \*\*\*\*
+- Assigned to [Zehra ](https://github.com/zehrayelkenci)\*[Furkan](https://github.com/kilicf)\*\*\*
 
 ---
 
-### Create Sections `bla bla`
-
-1. Fork repo
-1. Create an issue in the repo, add the labels and project label
-1. Create a branch `bla bla`
-1. Create a index.html file
-1. Create a style.css file
-   - Work with @media Query to make the web responsive
-1. Create a link in the index.html to ref style.css
-1. Work in the section `bla bla` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
-1. Change your status in the project, to follow the work
-1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
-
-- Assigned to \*\*\*\*
-
----
-
-### Create Sections `bla bla`
-
-1. Fork repo
-1. Create an issue in the repo, add the labels and project label
-1. Create a branch `bla bla`
-1. Create a index.html file
-1. Create a style.css file
-   - Work with @media Query to make the web responsive
-1. Create a link in the index.html to ref style.css
-1. Work in the section `bla bla` according to the wireframe and the website [Loruki](https://zen-carson-c10c9f.netlify.app/)
-1. Change your status in the project, to follow the work
-1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
-
-- Assigned to \*\*\*\*
-
----
